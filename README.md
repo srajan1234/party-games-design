@@ -1,6 +1,6 @@
 # Party Games
 
-> **What this repository is:** the design documentation and demo for Party Games — high-level design, low-level design and key flows. The application source code is private. More projects: [portfolio](https://srajan1234.github.io/portfolio/).
+> **What this repository is:** the design documentation and demo for Party Games — high-level design, low-level design and key flows. **The full source code is private because this is a personal project; I am happy to walk through it or discuss it on request.** More projects: [portfolio](https://srajan1234.github.io/portfolio/).
 
 **A hub of real-time, multiplayer party games with a strictly server-authoritative game engine.**
 
